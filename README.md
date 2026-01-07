@@ -40,9 +40,10 @@ This project showcases an **interactive HR Analytics Dashboard** built using **P
 3. Use slicers and visuals to explore insights interactively  
 
 ## 📸 Dashboard Preview
-*(Add screenshots of the dashboard here)*
+<img width="1374" height="773" alt="Screenshot 2026-01-07 141737" src="https://github.com/user-attachments/assets/1d9c64b3-6d22-46a2-94e8-df7635c30c2d" />
 
-## 🤝 Connect
+
+## 🤝 Connect (
 If you have suggestions or feedback, feel free to connect or raise an issue.
 
 ---
